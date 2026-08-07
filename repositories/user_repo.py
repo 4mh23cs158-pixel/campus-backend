@@ -12,7 +12,8 @@ def create_user(db:Session,user):
         name=user.name,
         email=user.email,
         password=user.password,
-        phone_number=user.phone_number
+        phone_number=user.phone_number,
+        role="Student"
     )
     db.add(db_user)
     db.commit()
@@ -25,3 +26,35 @@ def login_user(db:Session,email:str,password:str):
         return user
     return None
 
+def get_all_users(db:Session):
+    return db.query(User).all()
+
+from fastapi import HTTPException
+
+from sqlalchemy.orm import Session
+from models import User
+
+
+def update_user(db:Session,user_id:int,user,updated_user):
+    user = db.query(User).filter(
+        User.id == user_id
+    ).first()
+
+    if user is None:
+        raise HTTPException(
+            status_code=404,
+            detail="User not found"
+        )
+
+    update_data = updated_user.model_dump(
+        exclude_unset=True
+    )
+
+    for key, value in update_data.items():
+        setattr(user, key, value)
+
+    db.commit()
+
+    db.refresh(user)
+
+    return user

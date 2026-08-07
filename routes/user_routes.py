@@ -2,12 +2,14 @@ from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 
 from db import get_db
-from schemas.user_schemas import UserBase
-# pyrefly: ignore [missing-import]
+from schemas.user_schemas import UserBase, UserUpdate
+# pyrefly: ignore [missing-impor
 from repositories.user_repo import (
     create_user,
     get_user,
-    login_user
+    login_user,
+    get_all_users,
+    update_user
 )
 
 router = APIRouter()
@@ -32,3 +34,18 @@ def logout():
     return {
         "message": "Logout successful"
     }
+@router.get("/users")
+def get_all(db: Session = Depends(get_db)):
+    return get_all_users(db)
+
+@router.put("/users/{user_id}")
+def update(
+    user_id: int,
+    user: UserUpdate,
+    db: Session = Depends(get_db)
+):
+    return update_user(
+        db,
+        user_id,
+        user
+    )
