@@ -113,3 +113,6 @@ trained_models/
 # OS
 .DS_Store
 Thumbs.db
+
+trained_models/*
+!trained_models/.gitkeep
