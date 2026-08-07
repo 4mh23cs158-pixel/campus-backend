@@ -1,0 +1,1001 @@
+complaint,category,priority,department
+Dust everywhere in Lab 1,Cleaning,Low,Housekeeping
+Window damaged in Canteen,Furniture,Low,Maintenance
+Water overflowing in Block B,Water,High,Civil
+Door lock broken in Lab 1,Furniture,Low,Maintenance
+Internet is slow in Block C,Internet,Medium,IT
+Bench damaged in Canteen,Furniture,Low,Maintenance
+Water overflowing in Canteen,Water,High,Civil
+Bad smell in corridor in Hostel,Cleaning,Low,Housekeeping
+Tap broken in Lab 1,Water,High,Civil
+Dust everywhere in Hostel,Cleaning,Low,Housekeeping
+Garbage not collected in Canteen,Cleaning,Low,Housekeeping
+Garbage not collected in Hostel,Cleaning,Low,Housekeeping
+Security guard absent in Seminar Hall,Security,Critical,Security
+Broken chair in Lab 1,Furniture,Low,Maintenance
+Gate left open in Canteen,Security,Critical,Security
+Water overflowing in Hostel,Water,High,Civil
+WiFi not working in Parking Area,Internet,Medium,IT
+Bench damaged in Seminar Hall,Furniture,Low,Maintenance
+LAN cable damaged in Seminar Hall,Internet,Medium,IT
+Broken chair in Canteen,Furniture,Low,Maintenance
+Broken desk in Library,Furniture,Low,Maintenance
+Tap broken in Seminar Hall,Water,High,Civil
+Power outage in Block B,Electrical,Medium,Electrical
+AC not working in Parking Area,Electrical,Medium,Electrical
+Dirty classroom in Hostel,Cleaning,Low,Housekeeping
+Bench damaged in Parking Area,Furniture,Low,Maintenance
+Water pipeline damaged in Block A,Water,High,Civil
+Door lock broken in Block A,Furniture,Low,Maintenance
+Water overflowing in Block A,Water,High,Civil
+No drinking water in Canteen,Water,High,Civil
+Broken chair in Lab 1,Furniture,Low,Maintenance
+Window damaged in Library,Furniture,Low,Maintenance
+Garbage not collected in Block C,Cleaning,Low,Housekeeping
+CCTV not working in Parking Area,Security,Critical,Security
+Gate left open in Canteen,Security,Critical,Security
+Power outage in Block A,Electrical,Medium,Electrical
+Bench damaged in Block A,Furniture,Low,Maintenance
+Broken desk in Lab 2,Furniture,Low,Maintenance
+Broken desk in Seminar Hall,Furniture,Low,Maintenance
+Fan not working in Parking Area,Electrical,Medium,Electrical
+Gate left open in Seminar Hall,Security,Critical,Security
+Dirty classroom in Library,Cleaning,Low,Housekeeping
+Water pipeline damaged in Library,Water,High,Civil
+Fan not working in Block C,Electrical,Medium,Electrical
+Internet is slow in Library,Internet,Medium,IT
+Door lock broken in Parking Area,Furniture,Low,Maintenance
+Tube light fused in Seminar Hall,Electrical,Medium,Electrical
+No drinking water in Block B,Water,High,Civil
+Window damaged in Library,Furniture,Low,Maintenance
+Tap broken in Block A,Water,High,Civil
+CCTV not working in Block B,Security,Critical,Security
+Water leakage in Block C,Water,High,Civil
+No drinking water in Block B,Water,High,Civil
+WiFi not working in Lab 1,Internet,Medium,IT
+Broken desk in Block A,Furniture,Low,Maintenance
+Power outage in Library,Electrical,Medium,Electrical
+Security guard absent in Block C,Security,Critical,Security
+Power outage in Canteen,Electrical,Medium,Electrical
+Power outage in Lab 1,Electrical,Medium,Electrical
+Projector not turning on in Lab 2,Electrical,Medium,Electrical
+Broken desk in Seminar Hall,Furniture,Low,Maintenance
+Window damaged in Lab 1,Furniture,Low,Maintenance
+CCTV not working in Block C,Security,Critical,Security
+Fan not working in Seminar Hall,Electrical,Medium,Electrical
+Bad smell in corridor in Parking Area,Cleaning,Low,Housekeeping
+WiFi not working in Canteen,Internet,Medium,IT
+Window damaged in Seminar Hall,Furniture,Low,Maintenance
+Washroom dirty in Parking Area,Cleaning,Low,Housekeeping
+Internet is slow in Lab 2,Internet,Medium,IT
+Network disconnected in Block B,Internet,Medium,IT
+Water overflowing in Library,Water,High,Civil
+Security guard absent in Block B,Security,Critical,Security
+Switch board damaged in Seminar Hall,Electrical,Medium,Electrical
+Window damaged in Seminar Hall,Furniture,Low,Maintenance
+Router not working in Lab 1,Internet,Medium,IT
+Washroom dirty in Block C,Cleaning,Low,Housekeeping
+Bad smell in corridor in Block A,Cleaning,Low,Housekeeping
+Unauthorized person entered in Parking Area,Security,Critical,Security
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Internet is slow in Lab 1,Internet,Medium,IT
+Dirty classroom in Lab 2,Cleaning,Low,Housekeeping
+Broken desk in Block C,Furniture,Low,Maintenance
+Fan not working in Block C,Electrical,Medium,Electrical
+Garbage not collected in Canteen,Cleaning,Low,Housekeeping
+Water overflowing in Lab 2,Water,High,Civil
+Unauthorized person entered in Seminar Hall,Security,Critical,Security
+Gate left open in Lab 2,Security,Critical,Security
+Switch board damaged in Canteen,Electrical,Medium,Electrical
+Washroom dirty in Library,Cleaning,Low,Housekeeping
+Unauthorized person entered in Parking Area,Security,Critical,Security
+Garbage not collected in Block B,Cleaning,Low,Housekeeping
+Water leakage in Seminar Hall,Water,High,Civil
+Water leakage in Canteen,Water,High,Civil
+Dirty classroom in Parking Area,Cleaning,Low,Housekeeping
+Gate left open in Lab 2,Security,Critical,Security
+Dust everywhere in Canteen,Cleaning,Low,Housekeeping
+Washroom dirty in Lab 1,Cleaning,Low,Housekeeping
+WiFi not working in Hostel,Internet,Medium,IT
+Tap broken in Block C,Water,High,Civil
+AC not working in Library,Electrical,Medium,Electrical
+LAN cable damaged in Seminar Hall,Internet,Medium,IT
+Bench damaged in Lab 2,Furniture,Low,Maintenance
+Fan not working in Parking Area,Electrical,Medium,Electrical
+Bench damaged in Block C,Furniture,Low,Maintenance
+Broken desk in Block A,Furniture,Low,Maintenance
+Power outage in Lab 2,Electrical,Medium,Electrical
+WiFi not working in Hostel,Internet,Medium,IT
+Garbage not collected in Seminar Hall,Cleaning,Low,Housekeeping
+Projector not turning on in Library,Electrical,Medium,Electrical
+No drinking water in Canteen,Water,High,Civil
+Network disconnected in Library,Internet,Medium,IT
+Window damaged in Block B,Furniture,Low,Maintenance
+Water overflowing in Lab 2,Water,High,Civil
+Router not working in Block C,Internet,Medium,IT
+AC not working in Seminar Hall,Electrical,Medium,Electrical
+WiFi not working in Canteen,Internet,Medium,IT
+Tube light fused in Block B,Electrical,Medium,Electrical
+Unauthorized person entered in Lab 1,Security,Critical,Security
+Projector not turning on in Block C,Electrical,Medium,Electrical
+Network disconnected in Library,Internet,Medium,IT
+CCTV not working in Lab 2,Security,Critical,Security
+WiFi not working in Block C,Internet,Medium,IT
+Water overflowing in Block C,Water,High,Civil
+Washroom dirty in Seminar Hall,Cleaning,Low,Housekeeping
+Bench damaged in Parking Area,Furniture,Low,Maintenance
+Router not working in Block C,Internet,Medium,IT
+AC not working in Library,Electrical,Medium,Electrical
+Router not working in Parking Area,Internet,Medium,IT
+Tap broken in Hostel,Water,High,Civil
+CCTV not working in Block C,Security,Critical,Security
+Bad smell in corridor in Lab 1,Cleaning,Low,Housekeeping
+LAN cable damaged in Block A,Internet,Medium,IT
+Water overflowing in Library,Water,High,Civil
+AC not working in Hostel,Electrical,Medium,Electrical
+Unauthorized person entered in Canteen,Security,Critical,Security
+AC not working in Canteen,Electrical,Medium,Electrical
+Internet is slow in Block C,Internet,Medium,IT
+Network disconnected in Canteen,Internet,Medium,IT
+Broken chair in Seminar Hall,Furniture,Low,Maintenance
+Tap broken in Lab 2,Water,High,Civil
+Water leakage in Block A,Water,High,Civil
+Door lock broken in Block B,Furniture,Low,Maintenance
+Bench damaged in Block A,Furniture,Low,Maintenance
+LAN cable damaged in Canteen,Internet,Medium,IT
+Dust everywhere in Block B,Cleaning,Low,Housekeeping
+Dust everywhere in Block B,Cleaning,Low,Housekeeping
+Projector not turning on in Lab 1,Electrical,Medium,Electrical
+Garbage not collected in Block C,Cleaning,Low,Housekeeping
+CCTV not working in Block C,Security,Critical,Security
+Security guard absent in Lab 1,Security,Critical,Security
+Door lock broken in Parking Area,Furniture,Low,Maintenance
+Water leakage in Lab 1,Water,High,Civil
+Water overflowing in Parking Area,Water,High,Civil
+Unauthorized person entered in Block A,Security,Critical,Security
+CCTV not working in Hostel,Security,Critical,Security
+Internet is slow in Lab 2,Internet,Medium,IT
+Washroom dirty in Hostel,Cleaning,Low,Housekeeping
+Door lock broken in Parking Area,Furniture,Low,Maintenance
+Water pipeline damaged in Lab 1,Water,High,Civil
+Broken desk in Lab 2,Furniture,Low,Maintenance
+Water leakage in Block A,Water,High,Civil
+Dust everywhere in Parking Area,Cleaning,Low,Housekeeping
+Gate left open in Canteen,Security,Critical,Security
+Door lock broken in Hostel,Furniture,Low,Maintenance
+WiFi not working in Lab 2,Internet,Medium,IT
+Router not working in Block B,Internet,Medium,IT
+Tap broken in Canteen,Water,High,Civil
+WiFi not working in Canteen,Internet,Medium,IT
+Gate left open in Hostel,Security,Critical,Security
+Power outage in Block B,Electrical,Medium,Electrical
+Unauthorized person entered in Lab 2,Security,Critical,Security
+Dust everywhere in Lab 1,Cleaning,Low,Housekeeping
+Bench damaged in Block C,Furniture,Low,Maintenance
+AC not working in Block C,Electrical,Medium,Electrical
+Garbage not collected in Hostel,Cleaning,Low,Housekeeping
+Broken chair in Canteen,Furniture,Low,Maintenance
+Internet is slow in Canteen,Internet,Medium,IT
+Water leakage in Lab 1,Water,High,Civil
+AC not working in Block C,Electrical,Medium,Electrical
+Switch board damaged in Block A,Electrical,Medium,Electrical
+Dust everywhere in Parking Area,Cleaning,Low,Housekeeping
+Dirty classroom in Block A,Cleaning,Low,Housekeeping
+Projector not turning on in Seminar Hall,Electrical,Medium,Electrical
+Security guard absent in Lab 2,Security,Critical,Security
+Garbage not collected in Library,Cleaning,Low,Housekeeping
+Tube light fused in Canteen,Electrical,Medium,Electrical
+LAN cable damaged in Seminar Hall,Internet,Medium,IT
+Water overflowing in Library,Water,High,Civil
+Water leakage in Hostel,Water,High,Civil
+Dirty classroom in Lab 1,Cleaning,Low,Housekeeping
+Gate left open in Hostel,Security,Critical,Security
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+Window damaged in Hostel,Furniture,Low,Maintenance
+Tap broken in Block A,Water,High,Civil
+Fan not working in Canteen,Electrical,Medium,Electrical
+Dirty classroom in Seminar Hall,Cleaning,Low,Housekeeping
+Bad smell in corridor in Block B,Cleaning,Low,Housekeeping
+Security guard absent in Block B,Security,Critical,Security
+Unauthorized person entered in Hostel,Security,Critical,Security
+Internet is slow in Seminar Hall,Internet,Medium,IT
+Gate left open in Library,Security,Critical,Security
+Power outage in Block A,Electrical,Medium,Electrical
+Door lock broken in Parking Area,Furniture,Low,Maintenance
+WiFi not working in Canteen,Internet,Medium,IT
+Switch board damaged in Library,Electrical,Medium,Electrical
+Broken chair in Seminar Hall,Furniture,Low,Maintenance
+LAN cable damaged in Parking Area,Internet,Medium,IT
+Dust everywhere in Block C,Cleaning,Low,Housekeeping
+LAN cable damaged in Block B,Internet,Medium,IT
+CCTV not working in Lab 2,Security,Critical,Security
+Power outage in Block B,Electrical,Medium,Electrical
+Broken desk in Library,Furniture,Low,Maintenance
+Water leakage in Lab 1,Water,High,Civil
+Gate left open in Parking Area,Security,Critical,Security
+Broken chair in Canteen,Furniture,Low,Maintenance
+No drinking water in Block B,Water,High,Civil
+Unauthorized person entered in Lab 2,Security,Critical,Security
+Water leakage in Lab 1,Water,High,Civil
+Power outage in Lab 2,Electrical,Medium,Electrical
+Gate left open in Block A,Security,Critical,Security
+Projector not turning on in Parking Area,Electrical,Medium,Electrical
+Internet is slow in Lab 2,Internet,Medium,IT
+CCTV not working in Hostel,Security,Critical,Security
+Switch board damaged in Canteen,Electrical,Medium,Electrical
+Gate left open in Block A,Security,Critical,Security
+Dirty classroom in Parking Area,Cleaning,Low,Housekeeping
+Gate left open in Canteen,Security,Critical,Security
+Fan not working in Hostel,Electrical,Medium,Electrical
+Network disconnected in Canteen,Internet,Medium,IT
+Tap broken in Library,Water,High,Civil
+Water overflowing in Lab 2,Water,High,Civil
+Tube light fused in Hostel,Electrical,Medium,Electrical
+Security guard absent in Lab 1,Security,Critical,Security
+Power outage in Lab 1,Electrical,Medium,Electrical
+Bad smell in corridor in Block B,Cleaning,Low,Housekeeping
+Power outage in Block B,Electrical,Medium,Electrical
+Tap broken in Lab 2,Water,High,Civil
+Tube light fused in Lab 2,Electrical,Medium,Electrical
+Gate left open in Lab 2,Security,Critical,Security
+Switch board damaged in Lab 2,Electrical,Medium,Electrical
+Bench damaged in Block C,Furniture,Low,Maintenance
+Internet is slow in Canteen,Internet,Medium,IT
+WiFi not working in Library,Internet,Medium,IT
+Power outage in Seminar Hall,Electrical,Medium,Electrical
+CCTV not working in Hostel,Security,Critical,Security
+Dirty classroom in Seminar Hall,Cleaning,Low,Housekeeping
+Broken chair in Block B,Furniture,Low,Maintenance
+Internet is slow in Library,Internet,Medium,IT
+Tap broken in Parking Area,Water,High,Civil
+Tap broken in Canteen,Water,High,Civil
+Projector not turning on in Seminar Hall,Electrical,Medium,Electrical
+No drinking water in Parking Area,Water,High,Civil
+Security guard absent in Parking Area,Security,Critical,Security
+Unauthorized person entered in Library,Security,Critical,Security
+Washroom dirty in Seminar Hall,Cleaning,Low,Housekeeping
+Broken chair in Lab 1,Furniture,Low,Maintenance
+Network disconnected in Seminar Hall,Internet,Medium,IT
+Power outage in Seminar Hall,Electrical,Medium,Electrical
+Security guard absent in Seminar Hall,Security,Critical,Security
+Bad smell in corridor in Lab 2,Cleaning,Low,Housekeeping
+Internet is slow in Block A,Internet,Medium,IT
+Broken chair in Block C,Furniture,Low,Maintenance
+Security guard absent in Parking Area,Security,Critical,Security
+Window damaged in Hostel,Furniture,Low,Maintenance
+Router not working in Seminar Hall,Internet,Medium,IT
+Fan not working in Canteen,Electrical,Medium,Electrical
+CCTV not working in Canteen,Security,Critical,Security
+Door lock broken in Library,Furniture,Low,Maintenance
+Unauthorized person entered in Block B,Security,Critical,Security
+Broken chair in Block B,Furniture,Low,Maintenance
+WiFi not working in Canteen,Internet,Medium,IT
+Bad smell in corridor in Block A,Cleaning,Low,Housekeeping
+Dirty classroom in Hostel,Cleaning,Low,Housekeeping
+Dust everywhere in Parking Area,Cleaning,Low,Housekeeping
+Door lock broken in Canteen,Furniture,Low,Maintenance
+Dust everywhere in Hostel,Cleaning,Low,Housekeeping
+Tube light fused in Hostel,Electrical,Medium,Electrical
+WiFi not working in Canteen,Internet,Medium,IT
+AC not working in Block B,Electrical,Medium,Electrical
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+Unauthorized person entered in Seminar Hall,Security,Critical,Security
+Tap broken in Lab 2,Water,High,Civil
+No drinking water in Canteen,Water,High,Civil
+Fan not working in Canteen,Electrical,Medium,Electrical
+Broken chair in Canteen,Furniture,Low,Maintenance
+Window damaged in Block C,Furniture,Low,Maintenance
+Bad smell in corridor in Block A,Cleaning,Low,Housekeeping
+Tap broken in Block A,Water,High,Civil
+Door lock broken in Hostel,Furniture,Low,Maintenance
+Broken desk in Parking Area,Furniture,Low,Maintenance
+Water leakage in Canteen,Water,High,Civil
+Power outage in Library,Electrical,Medium,Electrical
+Unauthorized person entered in Seminar Hall,Security,Critical,Security
+Bad smell in corridor in Lab 1,Cleaning,Low,Housekeeping
+AC not working in Block B,Electrical,Medium,Electrical
+Dirty classroom in Parking Area,Cleaning,Low,Housekeeping
+Water overflowing in Lab 2,Water,High,Civil
+Water leakage in Parking Area,Water,High,Civil
+Projector not turning on in Lab 2,Electrical,Medium,Electrical
+Dust everywhere in Lab 1,Cleaning,Low,Housekeeping
+Router not working in Lab 2,Internet,Medium,IT
+WiFi not working in Block B,Internet,Medium,IT
+Bad smell in corridor in Lab 2,Cleaning,Low,Housekeeping
+Power outage in Block B,Electrical,Medium,Electrical
+Fan not working in Block C,Electrical,Medium,Electrical
+Broken desk in Block C,Furniture,Low,Maintenance
+AC not working in Seminar Hall,Electrical,Medium,Electrical
+WiFi not working in Block C,Internet,Medium,IT
+Broken chair in Hostel,Furniture,Low,Maintenance
+Water leakage in Block A,Water,High,Civil
+Washroom dirty in Parking Area,Cleaning,Low,Housekeeping
+Power outage in Seminar Hall,Electrical,Medium,Electrical
+Dust everywhere in Canteen,Cleaning,Low,Housekeeping
+Projector not turning on in Hostel,Electrical,Medium,Electrical
+Dirty classroom in Parking Area,Cleaning,Low,Housekeeping
+Water leakage in Lab 2,Water,High,Civil
+CCTV not working in Parking Area,Security,Critical,Security
+Broken chair in Library,Furniture,Low,Maintenance
+Garbage not collected in Block C,Cleaning,Low,Housekeeping
+Router not working in Lab 2,Internet,Medium,IT
+AC not working in Block C,Electrical,Medium,Electrical
+Door lock broken in Seminar Hall,Furniture,Low,Maintenance
+Router not working in Hostel,Internet,Medium,IT
+Broken chair in Hostel,Furniture,Low,Maintenance
+Security guard absent in Lab 2,Security,Critical,Security
+Garbage not collected in Parking Area,Cleaning,Low,Housekeeping
+No drinking water in Block C,Water,High,Civil
+Fan not working in Block C,Electrical,Medium,Electrical
+Router not working in Hostel,Internet,Medium,IT
+Broken desk in Block A,Furniture,Low,Maintenance
+Tap broken in Parking Area,Water,High,Civil
+Water pipeline damaged in Block A,Water,High,Civil
+Switch board damaged in Lab 1,Electrical,Medium,Electrical
+Router not working in Canteen,Internet,Medium,IT
+Door lock broken in Parking Area,Furniture,Low,Maintenance
+Water overflowing in Library,Water,High,Civil
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Dirty classroom in Lab 2,Cleaning,Low,Housekeeping
+Broken desk in Lab 1,Furniture,Low,Maintenance
+Internet is slow in Lab 1,Internet,Medium,IT
+Bad smell in corridor in Block A,Cleaning,Low,Housekeeping
+Router not working in Library,Internet,Medium,IT
+Unauthorized person entered in Hostel,Security,Critical,Security
+No drinking water in Block C,Water,High,Civil
+Dust everywhere in Parking Area,Cleaning,Low,Housekeeping
+Security guard absent in Parking Area,Security,Critical,Security
+Power outage in Lab 2,Electrical,Medium,Electrical
+Security guard absent in Block C,Security,Critical,Security
+LAN cable damaged in Library,Internet,Medium,IT
+Broken desk in Canteen,Furniture,Low,Maintenance
+Water leakage in Hostel,Water,High,Civil
+Security guard absent in Library,Security,Critical,Security
+No drinking water in Lab 1,Water,High,Civil
+Router not working in Lab 2,Internet,Medium,IT
+Window damaged in Block A,Furniture,Low,Maintenance
+CCTV not working in Seminar Hall,Security,Critical,Security
+Security guard absent in Canteen,Security,Critical,Security
+LAN cable damaged in Library,Internet,Medium,IT
+Power outage in Block C,Electrical,Medium,Electrical
+Bench damaged in Lab 2,Furniture,Low,Maintenance
+Water overflowing in Canteen,Water,High,Civil
+Tap broken in Parking Area,Water,High,Civil
+Switch board damaged in Block B,Electrical,Medium,Electrical
+Security guard absent in Block B,Security,Critical,Security
+Bad smell in corridor in Block C,Cleaning,Low,Housekeeping
+Washroom dirty in Block C,Cleaning,Low,Housekeeping
+Dirty classroom in Canteen,Cleaning,Low,Housekeeping
+Water overflowing in Canteen,Water,High,Civil
+No drinking water in Parking Area,Water,High,Civil
+Tube light fused in Seminar Hall,Electrical,Medium,Electrical
+Internet is slow in Block C,Internet,Medium,IT
+No drinking water in Block B,Water,High,Civil
+LAN cable damaged in Lab 1,Internet,Medium,IT
+Washroom dirty in Block C,Cleaning,Low,Housekeeping
+Tube light fused in Block C,Electrical,Medium,Electrical
+Gate left open in Lab 2,Security,Critical,Security
+Bench damaged in Canteen,Furniture,Low,Maintenance
+Router not working in Lab 1,Internet,Medium,IT
+Tube light fused in Parking Area,Electrical,Medium,Electrical
+Broken chair in Block B,Furniture,Low,Maintenance
+Window damaged in Seminar Hall,Furniture,Low,Maintenance
+Dust everywhere in Block B,Cleaning,Low,Housekeeping
+Network disconnected in Lab 2,Internet,Medium,IT
+Broken chair in Lab 1,Furniture,Low,Maintenance
+Broken desk in Seminar Hall,Furniture,Low,Maintenance
+Unauthorized person entered in Parking Area,Security,Critical,Security
+Switch board damaged in Block A,Electrical,Medium,Electrical
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+Unauthorized person entered in Canteen,Security,Critical,Security
+LAN cable damaged in Block B,Internet,Medium,IT
+Washroom dirty in Block A,Cleaning,Low,Housekeeping
+Tap broken in Library,Water,High,Civil
+Water pipeline damaged in Lab 1,Water,High,Civil
+Tap broken in Block C,Water,High,Civil
+Fan not working in Lab 2,Electrical,Medium,Electrical
+Bad smell in corridor in Lab 1,Cleaning,Low,Housekeeping
+Water leakage in Library,Water,High,Civil
+CCTV not working in Library,Security,Critical,Security
+Tube light fused in Block B,Electrical,Medium,Electrical
+Internet is slow in Lab 2,Internet,Medium,IT
+Fan not working in Lab 1,Electrical,Medium,Electrical
+Projector not turning on in Library,Electrical,Medium,Electrical
+Switch board damaged in Library,Electrical,Medium,Electrical
+LAN cable damaged in Lab 1,Internet,Medium,IT
+Gate left open in Library,Security,Critical,Security
+Switch board damaged in Canteen,Electrical,Medium,Electrical
+Switch board damaged in Block B,Electrical,Medium,Electrical
+Broken chair in Block C,Furniture,Low,Maintenance
+Tap broken in Lab 1,Water,High,Civil
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+Washroom dirty in Block B,Cleaning,Low,Housekeeping
+Garbage not collected in Hostel,Cleaning,Low,Housekeeping
+Power outage in Block A,Electrical,Medium,Electrical
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+LAN cable damaged in Block B,Internet,Medium,IT
+Water overflowing in Parking Area,Water,High,Civil
+Switch board damaged in Block C,Electrical,Medium,Electrical
+Fan not working in Library,Electrical,Medium,Electrical
+Water overflowing in Hostel,Water,High,Civil
+LAN cable damaged in Canteen,Internet,Medium,IT
+Tube light fused in Canteen,Electrical,Medium,Electrical
+Door lock broken in Lab 1,Furniture,Low,Maintenance
+LAN cable damaged in Block C,Internet,Medium,IT
+Bench damaged in Hostel,Furniture,Low,Maintenance
+No drinking water in Lab 1,Water,High,Civil
+Tube light fused in Seminar Hall,Electrical,Medium,Electrical
+Broken desk in Parking Area,Furniture,Low,Maintenance
+Fan not working in Block A,Electrical,Medium,Electrical
+Unauthorized person entered in Block B,Security,Critical,Security
+Bench damaged in Block C,Furniture,Low,Maintenance
+Security guard absent in Block A,Security,Critical,Security
+Bad smell in corridor in Parking Area,Cleaning,Low,Housekeeping
+Fan not working in Library,Electrical,Medium,Electrical
+AC not working in Hostel,Electrical,Medium,Electrical
+Broken chair in Seminar Hall,Furniture,Low,Maintenance
+Garbage not collected in Parking Area,Cleaning,Low,Housekeeping
+No drinking water in Library,Water,High,Civil
+Washroom dirty in Lab 2,Cleaning,Low,Housekeeping
+Dust everywhere in Block A,Cleaning,Low,Housekeeping
+Unauthorized person entered in Block A,Security,Critical,Security
+No drinking water in Lab 2,Water,High,Civil
+Switch board damaged in Lab 1,Electrical,Medium,Electrical
+LAN cable damaged in Lab 1,Internet,Medium,IT
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+AC not working in Hostel,Electrical,Medium,Electrical
+Tap broken in Seminar Hall,Water,High,Civil
+Network disconnected in Parking Area,Internet,Medium,IT
+Unauthorized person entered in Block A,Security,Critical,Security
+Internet is slow in Lab 2,Internet,Medium,IT
+Water leakage in Parking Area,Water,High,Civil
+Unauthorized person entered in Lab 1,Security,Critical,Security
+Security guard absent in Lab 2,Security,Critical,Security
+AC not working in Lab 1,Electrical,Medium,Electrical
+Washroom dirty in Canteen,Cleaning,Low,Housekeeping
+AC not working in Seminar Hall,Electrical,Medium,Electrical
+CCTV not working in Lab 1,Security,Critical,Security
+Fan not working in Seminar Hall,Electrical,Medium,Electrical
+Broken desk in Block A,Furniture,Low,Maintenance
+AC not working in Block A,Electrical,Medium,Electrical
+Water pipeline damaged in Hostel,Water,High,Civil
+Tube light fused in Parking Area,Electrical,Medium,Electrical
+Internet is slow in Seminar Hall,Internet,Medium,IT
+Window damaged in Block C,Furniture,Low,Maintenance
+Gate left open in Parking Area,Security,Critical,Security
+Water overflowing in Canteen,Water,High,Civil
+Unauthorized person entered in Library,Security,Critical,Security
+Security guard absent in Lab 2,Security,Critical,Security
+AC not working in Lab 2,Electrical,Medium,Electrical
+Gate left open in Block B,Security,Critical,Security
+CCTV not working in Lab 2,Security,Critical,Security
+Broken desk in Block C,Furniture,Low,Maintenance
+Door lock broken in Block B,Furniture,Low,Maintenance
+Garbage not collected in Block B,Cleaning,Low,Housekeeping
+Door lock broken in Block A,Furniture,Low,Maintenance
+Internet is slow in Block B,Internet,Medium,IT
+Unauthorized person entered in Seminar Hall,Security,Critical,Security
+Projector not turning on in Block C,Electrical,Medium,Electrical
+Security guard absent in Lab 2,Security,Critical,Security
+Washroom dirty in Lab 1,Cleaning,Low,Housekeeping
+Projector not turning on in Block A,Electrical,Medium,Electrical
+Water pipeline damaged in Hostel,Water,High,Civil
+Security guard absent in Block A,Security,Critical,Security
+Dust everywhere in Block A,Cleaning,Low,Housekeeping
+Tap broken in Block A,Water,High,Civil
+Window damaged in Seminar Hall,Furniture,Low,Maintenance
+LAN cable damaged in Parking Area,Internet,Medium,IT
+No drinking water in Canteen,Water,High,Civil
+Gate left open in Library,Security,Critical,Security
+Bad smell in corridor in Seminar Hall,Cleaning,Low,Housekeeping
+Bad smell in corridor in Library,Cleaning,Low,Housekeeping
+Security guard absent in Block C,Security,Critical,Security
+Router not working in Lab 2,Internet,Medium,IT
+AC not working in Parking Area,Electrical,Medium,Electrical
+Network disconnected in Lab 2,Internet,Medium,IT
+Door lock broken in Canteen,Furniture,Low,Maintenance
+Security guard absent in Block B,Security,Critical,Security
+Switch board damaged in Block A,Electrical,Medium,Electrical
+Dirty classroom in Lab 2,Cleaning,Low,Housekeeping
+Internet is slow in Hostel,Internet,Medium,IT
+Water overflowing in Block B,Water,High,Civil
+No drinking water in Canteen,Water,High,Civil
+Gate left open in Block A,Security,Critical,Security
+Tap broken in Library,Water,High,Civil
+No drinking water in Block B,Water,High,Civil
+Door lock broken in Hostel,Furniture,Low,Maintenance
+CCTV not working in Block C,Security,Critical,Security
+Power outage in Parking Area,Electrical,Medium,Electrical
+Tube light fused in Lab 2,Electrical,Medium,Electrical
+Bench damaged in Lab 1,Furniture,Low,Maintenance
+Door lock broken in Library,Furniture,Low,Maintenance
+No drinking water in Parking Area,Water,High,Civil
+Security guard absent in Block C,Security,Critical,Security
+Water leakage in Lab 2,Water,High,Civil
+Tap broken in Lab 2,Water,High,Civil
+CCTV not working in Parking Area,Security,Critical,Security
+No drinking water in Block B,Water,High,Civil
+LAN cable damaged in Block B,Internet,Medium,IT
+AC not working in Lab 2,Electrical,Medium,Electrical
+Unauthorized person entered in Block C,Security,Critical,Security
+Garbage not collected in Seminar Hall,Cleaning,Low,Housekeeping
+Security guard absent in Library,Security,Critical,Security
+Water pipeline damaged in Canteen,Water,High,Civil
+Door lock broken in Canteen,Furniture,Low,Maintenance
+Unauthorized person entered in Hostel,Security,Critical,Security
+Water overflowing in Lab 2,Water,High,Civil
+Tap broken in Lab 1,Water,High,Civil
+Fan not working in Hostel,Electrical,Medium,Electrical
+Gate left open in Block A,Security,Critical,Security
+Water pipeline damaged in Block B,Water,High,Civil
+Dust everywhere in Lab 1,Cleaning,Low,Housekeeping
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Window damaged in Lab 2,Furniture,Low,Maintenance
+Unauthorized person entered in Hostel,Security,Critical,Security
+Power outage in Lab 1,Electrical,Medium,Electrical
+Tube light fused in Block C,Electrical,Medium,Electrical
+Gate left open in Block C,Security,Critical,Security
+Dust everywhere in Block A,Cleaning,Low,Housekeeping
+Internet is slow in Block C,Internet,Medium,IT
+Washroom dirty in Block B,Cleaning,Low,Housekeeping
+Garbage not collected in Block A,Cleaning,Low,Housekeeping
+Security guard absent in Block B,Security,Critical,Security
+Garbage not collected in Block B,Cleaning,Low,Housekeeping
+Switch board damaged in Lab 1,Electrical,Medium,Electrical
+Tap broken in Parking Area,Water,High,Civil
+Network disconnected in Block A,Internet,Medium,IT
+Power outage in Block A,Electrical,Medium,Electrical
+Washroom dirty in Lab 1,Cleaning,Low,Housekeeping
+Water overflowing in Block C,Water,High,Civil
+Power outage in Library,Electrical,Medium,Electrical
+Tap broken in Block A,Water,High,Civil
+Dust everywhere in Library,Cleaning,Low,Housekeeping
+Network disconnected in Block C,Internet,Medium,IT
+No drinking water in Block B,Water,High,Civil
+CCTV not working in Block C,Security,Critical,Security
+Window damaged in Block A,Furniture,Low,Maintenance
+Water pipeline damaged in Block A,Water,High,Civil
+AC not working in Canteen,Electrical,Medium,Electrical
+Water leakage in Lab 2,Water,High,Civil
+Tap broken in Block A,Water,High,Civil
+Dirty classroom in Block C,Cleaning,Low,Housekeeping
+Bench damaged in Canteen,Furniture,Low,Maintenance
+LAN cable damaged in Block C,Internet,Medium,IT
+Dirty classroom in Block A,Cleaning,Low,Housekeeping
+No drinking water in Parking Area,Water,High,Civil
+Window damaged in Block B,Furniture,Low,Maintenance
+Water leakage in Parking Area,Water,High,Civil
+WiFi not working in Lab 1,Internet,Medium,IT
+Projector not turning on in Lab 1,Electrical,Medium,Electrical
+Switch board damaged in Hostel,Electrical,Medium,Electrical
+Internet is slow in Block C,Internet,Medium,IT
+CCTV not working in Block A,Security,Critical,Security
+Bench damaged in Block A,Furniture,Low,Maintenance
+Router not working in Canteen,Internet,Medium,IT
+Fan not working in Block C,Electrical,Medium,Electrical
+WiFi not working in Block C,Internet,Medium,IT
+Gate left open in Canteen,Security,Critical,Security
+WiFi not working in Hostel,Internet,Medium,IT
+Internet is slow in Block A,Internet,Medium,IT
+Gate left open in Parking Area,Security,Critical,Security
+Projector not turning on in Hostel,Electrical,Medium,Electrical
+Power outage in Block C,Electrical,Medium,Electrical
+LAN cable damaged in Lab 1,Internet,Medium,IT
+Garbage not collected in Seminar Hall,Cleaning,Low,Housekeeping
+Projector not turning on in Library,Electrical,Medium,Electrical
+Water pipeline damaged in Hostel,Water,High,Civil
+Gate left open in Hostel,Security,Critical,Security
+Bench damaged in Seminar Hall,Furniture,Low,Maintenance
+Fan not working in Hostel,Electrical,Medium,Electrical
+Network disconnected in Block C,Internet,Medium,IT
+Security guard absent in Lab 1,Security,Critical,Security
+Broken desk in Canteen,Furniture,Low,Maintenance
+Water overflowing in Block A,Water,High,Civil
+Power outage in Hostel,Electrical,Medium,Electrical
+Gate left open in Seminar Hall,Security,Critical,Security
+Window damaged in Lab 2,Furniture,Low,Maintenance
+Tube light fused in Library,Electrical,Medium,Electrical
+No drinking water in Lab 2,Water,High,Civil
+Projector not turning on in Seminar Hall,Electrical,Medium,Electrical
+LAN cable damaged in Block A,Internet,Medium,IT
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Security guard absent in Parking Area,Security,Critical,Security
+Tube light fused in Block A,Electrical,Medium,Electrical
+Bad smell in corridor in Block C,Cleaning,Low,Housekeeping
+Network disconnected in Canteen,Internet,Medium,IT
+Water leakage in Block C,Water,High,Civil
+Network disconnected in Block B,Internet,Medium,IT
+Water pipeline damaged in Lab 2,Water,High,Civil
+Power outage in Library,Electrical,Medium,Electrical
+Window damaged in Seminar Hall,Furniture,Low,Maintenance
+LAN cable damaged in Lab 2,Internet,Medium,IT
+Water leakage in Hostel,Water,High,Civil
+Unauthorized person entered in Parking Area,Security,Critical,Security
+LAN cable damaged in Lab 2,Internet,Medium,IT
+Bench damaged in Parking Area,Furniture,Low,Maintenance
+Security guard absent in Seminar Hall,Security,Critical,Security
+CCTV not working in Lab 2,Security,Critical,Security
+Fan not working in Seminar Hall,Electrical,Medium,Electrical
+Tap broken in Library,Water,High,Civil
+Window damaged in Lab 1,Furniture,Low,Maintenance
+Tube light fused in Canteen,Electrical,Medium,Electrical
+LAN cable damaged in Canteen,Internet,Medium,IT
+Water pipeline damaged in Library,Water,High,Civil
+Projector not turning on in Lab 2,Electrical,Medium,Electrical
+Broken chair in Lab 1,Furniture,Low,Maintenance
+Gate left open in Block A,Security,Critical,Security
+Fan not working in Hostel,Electrical,Medium,Electrical
+Network disconnected in Hostel,Internet,Medium,IT
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+Tap broken in Seminar Hall,Water,High,Civil
+WiFi not working in Block A,Internet,Medium,IT
+Dirty classroom in Canteen,Cleaning,Low,Housekeeping
+Fan not working in Lab 1,Electrical,Medium,Electrical
+Gate left open in Canteen,Security,Critical,Security
+Water pipeline damaged in Block B,Water,High,Civil
+No drinking water in Seminar Hall,Water,High,Civil
+Dirty classroom in Parking Area,Cleaning,Low,Housekeeping
+AC not working in Block A,Electrical,Medium,Electrical
+Network disconnected in Block C,Internet,Medium,IT
+Internet is slow in Library,Internet,Medium,IT
+Garbage not collected in Block C,Cleaning,Low,Housekeeping
+Security guard absent in Block B,Security,Critical,Security
+Garbage not collected in Block C,Cleaning,Low,Housekeeping
+Water pipeline damaged in Hostel,Water,High,Civil
+Garbage not collected in Block A,Cleaning,Low,Housekeeping
+Washroom dirty in Lab 2,Cleaning,Low,Housekeeping
+Fan not working in Seminar Hall,Electrical,Medium,Electrical
+Door lock broken in Library,Furniture,Low,Maintenance
+Bench damaged in Block B,Furniture,Low,Maintenance
+Unauthorized person entered in Parking Area,Security,Critical,Security
+Washroom dirty in Lab 2,Cleaning,Low,Housekeeping
+CCTV not working in Hostel,Security,Critical,Security
+Broken chair in Block A,Furniture,Low,Maintenance
+Water overflowing in Block A,Water,High,Civil
+Network disconnected in Block C,Internet,Medium,IT
+Unauthorized person entered in Library,Security,Critical,Security
+Door lock broken in Seminar Hall,Furniture,Low,Maintenance
+No drinking water in Lab 1,Water,High,Civil
+Dirty classroom in Canteen,Cleaning,Low,Housekeeping
+Water overflowing in Lab 2,Water,High,Civil
+WiFi not working in Hostel,Internet,Medium,IT
+Security guard absent in Canteen,Security,Critical,Security
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+Gate left open in Seminar Hall,Security,Critical,Security
+Projector not turning on in Seminar Hall,Electrical,Medium,Electrical
+Power outage in Canteen,Electrical,Medium,Electrical
+Bench damaged in Lab 1,Furniture,Low,Maintenance
+Broken chair in Parking Area,Furniture,Low,Maintenance
+Dust everywhere in Lab 1,Cleaning,Low,Housekeeping
+Fan not working in Lab 2,Electrical,Medium,Electrical
+Dirty classroom in Lab 2,Cleaning,Low,Housekeeping
+Dust everywhere in Block C,Cleaning,Low,Housekeeping
+WiFi not working in Block B,Internet,Medium,IT
+Window damaged in Block C,Furniture,Low,Maintenance
+Internet is slow in Block A,Internet,Medium,IT
+LAN cable damaged in Lab 2,Internet,Medium,IT
+Washroom dirty in Library,Cleaning,Low,Housekeeping
+Water pipeline damaged in Lab 2,Water,High,Civil
+Tube light fused in Lab 1,Electrical,Medium,Electrical
+Washroom dirty in Library,Cleaning,Low,Housekeeping
+Bench damaged in Lab 2,Furniture,Low,Maintenance
+Security guard absent in Lab 1,Security,Critical,Security
+Gate left open in Lab 1,Security,Critical,Security
+Broken chair in Library,Furniture,Low,Maintenance
+Fan not working in Lab 1,Electrical,Medium,Electrical
+Water pipeline damaged in Library,Water,High,Civil
+Network disconnected in Block C,Internet,Medium,IT
+CCTV not working in Block B,Security,Critical,Security
+Switch board damaged in Seminar Hall,Electrical,Medium,Electrical
+Dust everywhere in Canteen,Cleaning,Low,Housekeeping
+WiFi not working in Block C,Internet,Medium,IT
+Tube light fused in Parking Area,Electrical,Medium,Electrical
+Network disconnected in Parking Area,Internet,Medium,IT
+Door lock broken in Block C,Furniture,Low,Maintenance
+Projector not turning on in Lab 1,Electrical,Medium,Electrical
+Tap broken in Block B,Water,High,Civil
+Garbage not collected in Block C,Cleaning,Low,Housekeeping
+Network disconnected in Canteen,Internet,Medium,IT
+Switch board damaged in Lab 2,Electrical,Medium,Electrical
+Security guard absent in Library,Security,Critical,Security
+Broken desk in Block C,Furniture,Low,Maintenance
+Projector not turning on in Lab 1,Electrical,Medium,Electrical
+Water overflowing in Lab 1,Water,High,Civil
+WiFi not working in Hostel,Internet,Medium,IT
+Power outage in Parking Area,Electrical,Medium,Electrical
+Washroom dirty in Block A,Cleaning,Low,Housekeeping
+Tap broken in Block B,Water,High,Civil
+LAN cable damaged in Lab 1,Internet,Medium,IT
+Broken chair in Lab 2,Furniture,Low,Maintenance
+LAN cable damaged in Block C,Internet,Medium,IT
+Tap broken in Block A,Water,High,Civil
+AC not working in Library,Electrical,Medium,Electrical
+Door lock broken in Lab 2,Furniture,Low,Maintenance
+Bench damaged in Canteen,Furniture,Low,Maintenance
+Projector not turning on in Canteen,Electrical,Medium,Electrical
+LAN cable damaged in Lab 2,Internet,Medium,IT
+Window damaged in Library,Furniture,Low,Maintenance
+Garbage not collected in Seminar Hall,Cleaning,Low,Housekeeping
+AC not working in Library,Electrical,Medium,Electrical
+Fan not working in Canteen,Electrical,Medium,Electrical
+Dust everywhere in Block A,Cleaning,Low,Housekeeping
+Broken chair in Block C,Furniture,Low,Maintenance
+Door lock broken in Library,Furniture,Low,Maintenance
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Window damaged in Lab 1,Furniture,Low,Maintenance
+Dust everywhere in Library,Cleaning,Low,Housekeeping
+Fan not working in Block C,Electrical,Medium,Electrical
+Water pipeline damaged in Lab 1,Water,High,Civil
+Fan not working in Lab 2,Electrical,Medium,Electrical
+Water overflowing in Parking Area,Water,High,Civil
+Unauthorized person entered in Library,Security,Critical,Security
+Water overflowing in Lab 2,Water,High,Civil
+Dirty classroom in Block B,Cleaning,Low,Housekeeping
+CCTV not working in Lab 2,Security,Critical,Security
+Dirty classroom in Lab 2,Cleaning,Low,Housekeeping
+Internet is slow in Block C,Internet,Medium,IT
+Bench damaged in Lab 1,Furniture,Low,Maintenance
+Projector not turning on in Hostel,Electrical,Medium,Electrical
+Tap broken in Seminar Hall,Water,High,Civil
+No drinking water in Block A,Water,High,Civil
+Power outage in Block A,Electrical,Medium,Electrical
+Garbage not collected in Parking Area,Cleaning,Low,Housekeeping
+Projector not turning on in Hostel,Electrical,Medium,Electrical
+CCTV not working in Hostel,Security,Critical,Security
+Projector not turning on in Parking Area,Electrical,Medium,Electrical
+Unauthorized person entered in Block C,Security,Critical,Security
+Broken chair in Hostel,Furniture,Low,Maintenance
+No drinking water in Lab 2,Water,High,Civil
+Broken chair in Parking Area,Furniture,Low,Maintenance
+Bad smell in corridor in Block C,Cleaning,Low,Housekeeping
+Network disconnected in Hostel,Internet,Medium,IT
+Washroom dirty in Block A,Cleaning,Low,Housekeeping
+Dust everywhere in Block A,Cleaning,Low,Housekeeping
+WiFi not working in Parking Area,Internet,Medium,IT
+Tap broken in Block C,Water,High,Civil
+CCTV not working in Parking Area,Security,Critical,Security
+Broken desk in Lab 2,Furniture,Low,Maintenance
+LAN cable damaged in Parking Area,Internet,Medium,IT
+Bad smell in corridor in Block A,Cleaning,Low,Housekeeping
+Broken chair in Hostel,Furniture,Low,Maintenance
+Dirty classroom in Lab 1,Cleaning,Low,Housekeeping
+Security guard absent in Library,Security,Critical,Security
+Window damaged in Canteen,Furniture,Low,Maintenance
+Router not working in Lab 1,Internet,Medium,IT
+Washroom dirty in Lab 2,Cleaning,Low,Housekeeping
+Power outage in Parking Area,Electrical,Medium,Electrical
+Power outage in Lab 1,Electrical,Medium,Electrical
+Projector not turning on in Block A,Electrical,Medium,Electrical
+Tap broken in Block A,Water,High,Civil
+Broken chair in Block C,Furniture,Low,Maintenance
+Switch board damaged in Library,Electrical,Medium,Electrical
+Fan not working in Parking Area,Electrical,Medium,Electrical
+Water leakage in Lab 1,Water,High,Civil
+Router not working in Parking Area,Internet,Medium,IT
+Broken desk in Lab 2,Furniture,Low,Maintenance
+Garbage not collected in Block B,Cleaning,Low,Housekeeping
+Water leakage in Hostel,Water,High,Civil
+CCTV not working in Canteen,Security,Critical,Security
+AC not working in Canteen,Electrical,Medium,Electrical
+Broken desk in Lab 2,Furniture,Low,Maintenance
+Water overflowing in Block A,Water,High,Civil
+Water overflowing in Lab 2,Water,High,Civil
+Window damaged in Lab 1,Furniture,Low,Maintenance
+Water overflowing in Block C,Water,High,Civil
+Gate left open in Library,Security,Critical,Security
+Unauthorized person entered in Canteen,Security,Critical,Security
+Broken desk in Block A,Furniture,Low,Maintenance
+Door lock broken in Lab 2,Furniture,Low,Maintenance
+Water overflowing in Seminar Hall,Water,High,Civil
+Garbage not collected in Lab 2,Cleaning,Low,Housekeeping
+Broken chair in Library,Furniture,Low,Maintenance
+Unauthorized person entered in Block A,Security,Critical,Security
+Unauthorized person entered in Block A,Security,Critical,Security
+Dirty classroom in Parking Area,Cleaning,Low,Housekeeping
+Water leakage in Block A,Water,High,Civil
+No drinking water in Library,Water,High,Civil
+WiFi not working in Block A,Internet,Medium,IT
+Projector not turning on in Block B,Electrical,Medium,Electrical
+Internet is slow in Library,Internet,Medium,IT
+Internet is slow in Lab 1,Internet,Medium,IT
+Power outage in Block A,Electrical,Medium,Electrical
+Switch board damaged in Library,Electrical,Medium,Electrical
+Tap broken in Block C,Water,High,Civil
+CCTV not working in Canteen,Security,Critical,Security
+LAN cable damaged in Canteen,Internet,Medium,IT
+Switch board damaged in Block A,Electrical,Medium,Electrical
+Tap broken in Block A,Water,High,Civil
+Internet is slow in Lab 1,Internet,Medium,IT
+Router not working in Lab 1,Internet,Medium,IT
+CCTV not working in Hostel,Security,Critical,Security
+Security guard absent in Lab 1,Security,Critical,Security
+Power outage in Lab 1,Electrical,Medium,Electrical
+Fan not working in Parking Area,Electrical,Medium,Electrical
+Washroom dirty in Lab 1,Cleaning,Low,Housekeeping
+Router not working in Lab 1,Internet,Medium,IT
+Water overflowing in Seminar Hall,Water,High,Civil
+Water pipeline damaged in Lab 2,Water,High,Civil
+Bad smell in corridor in Canteen,Cleaning,Low,Housekeeping
+No drinking water in Block C,Water,High,Civil
+Fan not working in Lab 1,Electrical,Medium,Electrical
+Washroom dirty in Parking Area,Cleaning,Low,Housekeeping
+Fan not working in Lab 2,Electrical,Medium,Electrical
+Water overflowing in Library,Water,High,Civil
+Router not working in Canteen,Internet,Medium,IT
+Dust everywhere in Library,Cleaning,Low,Housekeeping
+Network disconnected in Block B,Internet,Medium,IT
+Security guard absent in Lab 2,Security,Critical,Security
+CCTV not working in Canteen,Security,Critical,Security
+Router not working in Block A,Internet,Medium,IT
+Network disconnected in Block C,Internet,Medium,IT
+Window damaged in Block B,Furniture,Low,Maintenance
+Security guard absent in Library,Security,Critical,Security
+Power outage in Block C,Electrical,Medium,Electrical
+Water leakage in Canteen,Water,High,Civil
+CCTV not working in Canteen,Security,Critical,Security
+Security guard absent in Block C,Security,Critical,Security
+LAN cable damaged in Block A,Internet,Medium,IT
+Tube light fused in Block B,Electrical,Medium,Electrical
+No drinking water in Lab 1,Water,High,Civil
+Water overflowing in Hostel,Water,High,Civil
+Water leakage in Canteen,Water,High,Civil
+Switch board damaged in Canteen,Electrical,Medium,Electrical
+Router not working in Hostel,Internet,Medium,IT
+Power outage in Lab 2,Electrical,Medium,Electrical
+Gate left open in Library,Security,Critical,Security
+Power outage in Lab 1,Electrical,Medium,Electrical
+Gate left open in Library,Security,Critical,Security
+Fan not working in Block B,Electrical,Medium,Electrical
+Water leakage in Hostel,Water,High,Civil
+Bench damaged in Block A,Furniture,Low,Maintenance
+Bench damaged in Block B,Furniture,Low,Maintenance
+Unauthorized person entered in Hostel,Security,Critical,Security
+No drinking water in Seminar Hall,Water,High,Civil
+Washroom dirty in Library,Cleaning,Low,Housekeeping
+Gate left open in Block C,Security,Critical,Security
+Tap broken in Lab 2,Water,High,Civil
+Projector not turning on in Hostel,Electrical,Medium,Electrical
+Switch board damaged in Lab 2,Electrical,Medium,Electrical
+LAN cable damaged in Seminar Hall,Internet,Medium,IT
+Tube light fused in Canteen,Electrical,Medium,Electrical
+Bad smell in corridor in Seminar Hall,Cleaning,Low,Housekeeping
+Tap broken in Parking Area,Water,High,Civil
+Router not working in Block C,Internet,Medium,IT
+Switch board damaged in Library,Electrical,Medium,Electrical
+Water leakage in Block A,Water,High,Civil
+Washroom dirty in Parking Area,Cleaning,Low,Housekeeping
+Garbage not collected in Parking Area,Cleaning,Low,Housekeeping
+Window damaged in Lab 1,Furniture,Low,Maintenance
+Security guard absent in Parking Area,Security,Critical,Security
+WiFi not working in Block B,Internet,Medium,IT
+Bad smell in corridor in Block A,Cleaning,Low,Housekeeping
+Power outage in Seminar Hall,Electrical,Medium,Electrical
+WiFi not working in Lab 1,Internet,Medium,IT
+Dust everywhere in Parking Area,Cleaning,Low,Housekeeping
+Water leakage in Lab 2,Water,High,Civil
+Broken desk in Hostel,Furniture,Low,Maintenance
+Internet is slow in Block A,Internet,Medium,IT
+Tap broken in Block B,Water,High,Civil
+Door lock broken in Block B,Furniture,Low,Maintenance
+Broken chair in Hostel,Furniture,Low,Maintenance
+Garbage not collected in Lab 1,Cleaning,Low,Housekeeping
+Garbage not collected in Seminar Hall,Cleaning,Low,Housekeeping
+WiFi not working in Block C,Internet,Medium,IT
+Router not working in Parking Area,Internet,Medium,IT
+Window damaged in Lab 1,Furniture,Low,Maintenance
+Power outage in Parking Area,Electrical,Medium,Electrical
+Projector not turning on in Lab 2,Electrical,Medium,Electrical
+CCTV not working in Hostel,Security,Critical,Security
+Projector not turning on in Block A,Electrical,Medium,Electrical
+AC not working in Seminar Hall,Electrical,Medium,Electrical
+Internet is slow in Canteen,Internet,Medium,IT
+AC not working in Hostel,Electrical,Medium,Electrical
+Window damaged in Block C,Furniture,Low,Maintenance
+Water overflowing in Library,Water,High,Civil
+Broken chair in Block A,Furniture,Low,Maintenance
+Washroom dirty in Parking Area,Cleaning,Low,Housekeeping
+Dust everywhere in Library,Cleaning,Low,Housekeeping
+Tap broken in Canteen,Water,High,Civil
+Bad smell in corridor in Block C,Cleaning,Low,Housekeeping
+Internet is slow in Block C,Internet,Medium,IT
+Projector not turning on in Block B,Electrical,Medium,Electrical
+Internet is slow in Hostel,Internet,Medium,IT
+Router not working in Lab 2,Internet,Medium,IT
+Tube light fused in Hostel,Electrical,Medium,Electrical
+Window damaged in Block C,Furniture,Low,Maintenance
+Broken desk in Parking Area,Furniture,Low,Maintenance
+WiFi not working in Canteen,Internet,Medium,IT
+Gate left open in Lab 2,Security,Critical,Security
+Water overflowing in Block A,Water,High,Civil
+Internet is slow in Hostel,Internet,Medium,IT
+Broken chair in Parking Area,Furniture,Low,Maintenance
+CCTV not working in Canteen,Security,Critical,Security
+Water pipeline damaged in Hostel,Water,High,Civil
+Projector not turning on in Hostel,Electrical,Medium,Electrical
+Washroom dirty in Library,Cleaning,Low,Housekeeping
+Network disconnected in Seminar Hall,Internet,Medium,IT
+Broken desk in Lab 1,Furniture,Low,Maintenance
+Tap broken in Library,Water,High,Civil
+Dust everywhere in Parking Area,Cleaning,Low,Housekeeping
+Unauthorized person entered in Parking Area,Security,Critical,Security
+Garbage not collected in Block B,Cleaning,Low,Housekeeping
+Gate left open in Seminar Hall,Security,Critical,Security
+Network disconnected in Block C,Internet,Medium,IT
+AC not working in Block C,Electrical,Medium,Electrical
+Bench damaged in Seminar Hall,Furniture,Low,Maintenance
+Internet is slow in Hostel,Internet,Medium,IT
+Bench damaged in Hostel,Furniture,Low,Maintenance
+Unauthorized person entered in Hostel,Security,Critical,Security
+Garbage not collected in Hostel,Cleaning,Low,Housekeeping
+Dust everywhere in Canteen,Cleaning,Low,Housekeeping
+Water pipeline damaged in Lab 2,Water,High,Civil
+Security guard absent in Block B,Security,Critical,Security
+CCTV not working in Seminar Hall,Security,Critical,Security
+Security guard absent in Block B,Security,Critical,Security
+Broken desk in Library,Furniture,Low,Maintenance
+No drinking water in Hostel,Water,High,Civil
+Water overflowing in Block B,Water,High,Civil
+Fan not working in Library,Electrical,Medium,Electrical
+Router not working in Block B,Internet,Medium,IT
+Broken desk in Library,Furniture,Low,Maintenance
+Fan not working in Block C,Electrical,Medium,Electrical
+Gate left open in Lab 1,Security,Critical,Security
+Network disconnected in Block B,Internet,Medium,IT
+No drinking water in Block B,Water,High,Civil
+CCTV not working in Canteen,Security,Critical,Security
+CCTV not working in Lab 1,Security,Critical,Security
+WiFi not working in Hostel,Internet,Medium,IT
+Water pipeline damaged in Seminar Hall,Water,High,Civil
+Broken desk in Block B,Furniture,Low,Maintenance
+Unauthorized person entered in Lab 1,Security,Critical,Security
+Network disconnected in Block B,Internet,Medium,IT
+AC not working in Lab 1,Electrical,Medium,Electrical
+Bench damaged in Canteen,Furniture,Low,Maintenance
+Tap broken in Library,Water,High,Civil
+Internet is slow in Block C,Internet,Medium,IT
+CCTV not working in Block B,Security,Critical,Security
+Tap broken in Seminar Hall,Water,High,Civil
+CCTV not working in Library,Security,Critical,Security
+Dirty classroom in Hostel,Cleaning,Low,Housekeeping
+Security guard absent in Library,Security,Critical,Security
+Door lock broken in Block A,Furniture,Low,Maintenance
+Water overflowing in Hostel,Water,High,Civil
+Water pipeline damaged in Block C,Water,High,Civil
+WiFi not working in Hostel,Internet,Medium,IT
+Broken chair in Parking Area,Furniture,Low,Maintenance
+Internet is slow in Lab 2,Internet,Medium,IT
+Bench damaged in Block C,Furniture,Low,Maintenance
+AC not working in Block B,Electrical,Medium,Electrical
+Garbage not collected in Canteen,Cleaning,Low,Housekeeping
+Fan not working in Block B,Electrical,Medium,Electrical
+Dust everywhere in Block C,Cleaning,Low,Housekeeping
+Water pipeline damaged in Hostel,Water,High,Civil
+Washroom dirty in Block C,Cleaning,Low,Housekeeping
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Router not working in Seminar Hall,Internet,Medium,IT
+Internet is slow in Lab 2,Internet,Medium,IT
+Tube light fused in Block A,Electrical,Medium,Electrical
+Water leakage in Block A,Water,High,Civil
+Tap broken in Block B,Water,High,Civil
+Gate left open in Lab 2,Security,Critical,Security
+Dust everywhere in Seminar Hall,Cleaning,Low,Housekeeping
+Water leakage in Block C,Water,High,Civil
+Gate left open in Seminar Hall,Security,Critical,Security
+Water pipeline damaged in Lab 2,Water,High,Civil
+Window damaged in Block A,Furniture,Low,Maintenance
+Garbage not collected in Library,Cleaning,Low,Housekeeping
+Dust everywhere in Block B,Cleaning,Low,Housekeeping
+Switch board damaged in Library,Electrical,Medium,Electrical
+Projector not turning on in Block B,Electrical,Medium,Electrical
+Broken desk in Block C,Furniture,Low,Maintenance
+Switch board damaged in Block A,Electrical,Medium,Electrical
+Tap broken in Block C,Water,High,Civil
+Unauthorized person entered in Parking Area,Security,Critical,Security
+Door lock broken in Parking Area,Furniture,Low,Maintenance
+Security guard absent in Seminar Hall,Security,Critical,Security
+Washroom dirty in Seminar Hall,Cleaning,Low,Housekeeping
+Water leakage in Lab 1,Water,High,Civil
+CCTV not working in Seminar Hall,Security,Critical,Security
+Router not working in Block B,Internet,Medium,IT
+Network disconnected in Library,Internet,Medium,IT
