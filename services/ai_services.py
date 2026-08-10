@@ -1,14 +1,20 @@
+from pathlib import Path
 import joblib
 
 from utils.preprocessing import clean_text
 
-model = joblib.load(
-    "trained_models/category_model.pkl"
-)
 
-vectorizer = joblib.load(
-    "trained_models/vectorizer.pkl"
-)
+# Get the backend project root directory
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+# ML model paths
+MODEL_PATH = BASE_DIR / "trained_models" / "category_model.pkl"
+VECTORIZER_PATH = BASE_DIR / "trained_models" / "vectorizer.pkl"
+
+
+# Load trained model and vectorizer
+model = joblib.load(MODEL_PATH)
+vectorizer = joblib.load(VECTORIZER_PATH)
 
 
 def predict_category(complaint: str):
