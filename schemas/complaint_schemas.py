@@ -12,9 +12,9 @@ class ComplaintCreate(BaseModel):
 
     description: str = Field(..., min_length=10)
 
-    category: str
-
     location: str
+
+    image_url:str | None = None
 
 
 # -----------------------------

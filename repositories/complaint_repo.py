@@ -11,12 +11,17 @@ from schemas.complaint_schemas import (
 # ---------------------------------
 # Create Complaint
 # ---------------------------------
-def create_complaint(db: Session, complaint: ComplaintCreate, student_id: int):
+def create_complaint(
+    db: Session,
+    complaint: ComplaintCreate,
+    student_id: int,
+    predicted_category: str
+):
 
     new_complaint = Complaint(
         title=complaint.title,
         description=complaint.description,
-        category=complaint.category,
+        category=predicted_category,
         location=complaint.location,
         priority="Low",
         status="Pending",

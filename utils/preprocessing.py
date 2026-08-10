@@ -7,8 +7,7 @@ nltk.download("stopwords")
 
 stop_words = set(stopwords.words("english"))
 
-
-def clean_text(text: str):
+def clean_text(text):
 
     text = text.lower()
 

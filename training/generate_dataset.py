@@ -80,20 +80,8 @@ department_map = {
 # Priority
 # -----------------------------
 
-priority_map = {
 
-    "Electrical":"Medium",
 
-    "Water":"High",
-
-    "Internet":"Medium",
-
-    "Furniture":"Low",
-
-    "Cleaning":"Low",
-
-    "Security":"Critical"
-}
 
 # -----------------------------
 # Locations
@@ -138,18 +126,38 @@ for i in range(1000):
 
     full_complaint = f"{complaint} in {location}"
 
+    # -----------------------------
+    # Dynamic Priority
+    # -----------------------------
+    if category == "Electrical":
+        priority = random.choice(["Medium", "High", "Critical"])
+
+    elif category == "Water":
+        priority = random.choice(["Medium", "High"])
+
+    elif category == "Internet":
+        priority = random.choice(["Low", "Medium"])
+
+    elif category == "Furniture":
+        priority = random.choice(["Low", "Medium"])
+
+    elif category == "Cleaning":
+        priority = "Low"
+
+    elif category == "Security":
+        priority = random.choice(["High", "Critical"])
+
     rows.append({
 
         "complaint": full_complaint,
 
         "category": category,
 
-        "priority": priority_map[category],
+        "priority": priority,
 
         "department": department_map[category]
 
     })
-
 # -----------------------------
 # Save Dataset
 # -----------------------------

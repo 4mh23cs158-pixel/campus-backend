@@ -19,29 +19,28 @@ from repositories.complaint_repo import (
     update_status,
     add_remarks
 )
+from services.ai_services import predict_category
 
 
 # ----------------------------------------
 # Create Complaint
 # ----------------------------------------
 def create_new_complaint(
-    db: Session,
-    complaint: ComplaintCreate,
-    student_id: int
+    db,
+    complaint,
+    student_id
 ):
-    """
-    Business Logic:
-    - Validate complaint
-    - Set default values
-    - Later add AI prediction
-    """
+
+    full_text = f"{complaint.title} {complaint.description}"
+
+    predicted_category = predict_category(full_text)
 
     return create_complaint(
         db,
         complaint,
-        student_id
+        student_id,
+        predicted_category
     )
-
 
 # ----------------------------------------
 # View All Complaints

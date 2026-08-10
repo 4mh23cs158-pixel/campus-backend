@@ -67,7 +67,8 @@ class Complaint(Base):
     )
     created_at = Column(
         DateTime,
-        default=datetime.utcnow
+        default=datetime.utcnow,
+        nullable=False
     )
 
     updated_at = Column(
