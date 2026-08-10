@@ -45,10 +45,23 @@ def create_new_complaint(
 # ----------------------------------------
 # View All Complaints
 # ----------------------------------------
-def fetch_all_complaints(db: Session):
+def fetch_all_complaints(
+    db: Session,
+    status: str | None = None,
+    category: str | None = None,
+    priority: str | None = None,
+    department_id: int | None = None,
+    search: str | None = None
+):
 
-    return get_all_complaints(db)
-
+    return get_all_complaints(
+        db=db,
+        status=status,
+        category=category,
+        priority=priority,
+        department_id=department_id,
+        search=search
+    )
 
 # ----------------------------------------
 # View Single Complaint

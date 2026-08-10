@@ -38,11 +38,76 @@ def create_complaint(
 # ---------------------------------
 # Get All Complaints
 # ---------------------------------
-def get_all_complaints(db: Session):
+def get_all_complaints(
+    db: Session,
+    status: str | None = None,
+    category: str | None = None,
+    priority: str | None = None,
+    department_id: int | None = None,
+    search: str | None = None
+):
 
-    complaints = db.query(Complaint).all()
+    query = db.query(Complaint)
 
-    return complaints
+    # -----------------------------
+    # Status Filter
+    # -----------------------------
+
+    if status:
+        query = query.filter(
+            Complaint.status == status
+        )
+
+    # -----------------------------
+    # Category Filter
+    # -----------------------------
+
+    if category:
+        query = query.filter(
+            Complaint.category == category
+        )
+
+    # -----------------------------
+    # Priority Filter
+    # -----------------------------
+
+    if priority:
+        query = query.filter(
+            Complaint.priority == priority
+        )
+
+    # -----------------------------
+    # Department Filter
+    # -----------------------------
+
+    if department_id:
+        query = query.filter(
+            Complaint.department_id == department_id
+        )
+
+    # -----------------------------
+    # Search
+    # -----------------------------
+
+    if search:
+
+        search_text = f"%{search}%"
+
+        query = query.filter(
+            Complaint.title.ilike(search_text)
+            |
+            Complaint.description.ilike(search_text)
+        )
+
+    # -----------------------------
+    # Latest Complaints First
+    # -----------------------------
+
+    query = query.order_by(
+        Complaint.created_at.desc()
+    )
+
+    return query.all()
 
 
 # ---------------------------------

@@ -22,23 +22,28 @@ from services.complaint_service import (
     fetch_staff_complaints
 )
 
+
 router = APIRouter(
     prefix="/complaints",
     tags=["Complaints"]
 )
 
 
-# -----------------------------------------
-# Create Complaint
-# -----------------------------------------
-@router.post("/", response_model=ComplaintResponse)
+# ========================================
+# CREATE COMPLAINT
+# ========================================
+
+@router.post(
+    "/",
+    response_model=ComplaintResponse
+)
 def create_complaint(
     complaint: ComplaintCreate,
     db: Session = Depends(get_db)
 ):
 
-    # Temporary student id
-    # Later this will come from logged in user
+    # Temporary student ID
+    # Later this will come from logged-in user
     student_id = 1
 
     return create_new_complaint(
@@ -48,21 +53,79 @@ def create_complaint(
     )
 
 
-# -----------------------------------------
-# Get All Complaints
-# -----------------------------------------
-@router.get("/", response_model=list[ComplaintResponse])
-def get_all_complaints(
+# ========================================
+# GET STUDENT COMPLAINTS
+# ========================================
+
+@router.get(
+    "/student/{student_id}",
+    response_model=list[ComplaintResponse]
+)
+def get_student_complaints(
+    student_id: int,
     db: Session = Depends(get_db)
 ):
 
-    return fetch_all_complaints(db)
+    return fetch_student_complaints(
+        db,
+        student_id
+    )
 
 
-# -----------------------------------------
-# Get Single Complaint
-# -----------------------------------------
-@router.get("/{complaint_id}", response_model=ComplaintResponse)
+# ========================================
+# GET STAFF COMPLAINTS
+# ========================================
+
+@router.get(
+    "/staff/{staff_id}",
+    response_model=list[ComplaintResponse]
+)
+def get_staff_dashboard(
+    staff_id: int,
+    db: Session = Depends(get_db)
+):
+
+    return fetch_staff_complaints(
+        db,
+        staff_id
+    )
+
+
+# ========================================
+# GET ALL COMPLAINTS
+# ========================================
+
+@router.get(
+    "/",
+    response_model=list[ComplaintResponse]
+)
+def get_all_complaints(
+    status: str | None = None,
+    category: str | None = None,
+    priority: str | None = None,
+    department_id: int | None = None,
+    search: str | None = None,
+    db: Session = Depends(get_db)
+):
+
+    return fetch_all_complaints(
+        db=db,
+        status=status,
+        category=category,
+        priority=priority,
+        department_id=department_id,
+        search=search
+    )
+
+
+# ========================================
+# GET SINGLE COMPLAINT
+# ========================================
+
+@router.get(
+    "/{complaint_id}",
+    response_model=ComplaintResponse
+)
 def get_single_complaint(
     complaint_id: int,
     db: Session = Depends(get_db)
@@ -74,10 +137,14 @@ def get_single_complaint(
     )
 
 
-# -----------------------------------------
-# Update Complaint
-# -----------------------------------------
-@router.put("/{complaint_id}", response_model=ComplaintResponse)
+# ========================================
+# UPDATE COMPLAINT
+# ========================================
+
+@router.put(
+    "/{complaint_id}",
+    response_model=ComplaintResponse
+)
 def update_complaint(
     complaint_id: int,
     complaint: ComplaintUpdate,
@@ -91,10 +158,13 @@ def update_complaint(
     )
 
 
-# -----------------------------------------
-# Delete Complaint
-# -----------------------------------------
-@router.delete("/{complaint_id}")
+# ========================================
+# DELETE COMPLAINT
+# ========================================
+
+@router.delete(
+    "/{complaint_id}"
+)
 def delete_complaint(
     complaint_id: int,
     db: Session = Depends(get_db)
@@ -104,7 +174,15 @@ def delete_complaint(
         db,
         complaint_id
     )
-@router.put("/{complaint_id}/assign")
+
+
+# ========================================
+# ASSIGN STAFF
+# ========================================
+
+@router.put(
+    "/{complaint_id}/assign"
+)
 def assign(
     complaint_id: int,
     staff_id: int,
@@ -116,7 +194,15 @@ def assign(
         complaint_id,
         staff_id
     )
-@router.put("/{complaint_id}/status")
+
+
+# ========================================
+# UPDATE STATUS
+# ========================================
+
+@router.put(
+    "/{complaint_id}/status"
+)
 def status(
     complaint_id: int,
     status: str,
@@ -128,7 +214,15 @@ def status(
         complaint_id,
         status
     )
-@router.put("/{complaint_id}/remarks")
+
+
+# ========================================
+# ADD REMARKS
+# ========================================
+
+@router.put(
+    "/{complaint_id}/remarks"
+)
 def remarks(
     complaint_id: int,
     remarks: str,
@@ -139,27 +233,4 @@ def remarks(
         db,
         complaint_id,
         remarks
-    )
-@router.get("/student/{student_id}", response_model=list[ComplaintResponse])
-def get_student_complaints(
-    student_id: int,
-    db: Session = Depends(get_db)
-):
-
-    return fetch_student_complaints(
-        db,
-        student_id
-    )
-@router.get(
-    "/staff/{staff_id}",
-    response_model=list[ComplaintResponse]
-)
-def get_staff_dashboard(
-    staff_id: int,
-    db: Session = Depends(get_db)
-):
-
-    return fetch_staff_complaints(
-        db,
-        staff_id
     )

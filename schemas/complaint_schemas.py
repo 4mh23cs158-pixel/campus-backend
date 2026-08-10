@@ -63,8 +63,8 @@ class ComplaintResponse(BaseModel):
     student_id: int
 
     created_at: datetime
-    assigned_to: int 
-    remarks:str
+    assigned_to: int | None = None
+    remarks:str | None = None
 
     class Config:
         from_attributes = True

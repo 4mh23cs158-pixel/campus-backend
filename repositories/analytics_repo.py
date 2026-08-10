@@ -118,23 +118,18 @@ def complaint_category_statistics(db: Session):
 def department_statistics(db: Session):
 
     departments = (
-
         db.query(
-
-            Complaint.department,
-
+            Department.department_name,
             func.count(Complaint.id)
-
         )
-
+        .join(
+            Complaint,
+            Complaint.department_id == Department.id
+        )
         .group_by(
-
-            Complaint.department
-
+            Department.department_name
         )
-
         .all()
-
     )
 
     result = []
@@ -142,12 +137,11 @@ def department_statistics(db: Session):
     for department, count in departments:
 
         result.append({
-
             "department": department,
-
             "count": count
-
         })
+
+    return result
 
     return result
 def priority_statistics(db: Session):
