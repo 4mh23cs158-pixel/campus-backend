@@ -1,12 +1,13 @@
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
 from db import get_db
-from schemas.user_schemas import UserBase, UserUpdate
+from schemas.user_schemas import UserBase, UserUpdate, Userlogin
 # pyrefly: ignore [missing-impor
 from repositories.user_repo import (
     create_user,
     get_user,
+    get_user_by_email,
     login_user,
     get_all_users,
     update_user
@@ -26,8 +27,37 @@ def get_single_user(user_id: int, db: Session = Depends(get_db)):
 
 
 @router.post("/login")
-def login(user: UserBase, db: Session = Depends(get_db)):
-    return login_user(db, user)
+def login(
+    user: Userlogin,
+    db: Session = Depends(get_db)
+):
+    existing_user = get_user_by_email(
+        db,
+        user.email
+    )
+
+    if existing_user is None:
+        raise HTTPException(
+            status_code=401,
+            detail="Invalid email or password"
+        )
+
+    if existing_user.password != user.password:
+        raise HTTPException(
+            status_code=401,
+            detail="Invalid email or password"
+        )
+
+    return {
+        "message": "Login successful",
+        "user": {
+            "id": existing_user.id,
+            "name": existing_user.name,
+            "email": existing_user.email,
+            "phone_number": existing_user.phone_number,
+            "role": existing_user.role
+        }
+    }
 
 @router.get("/logout")
 def logout():

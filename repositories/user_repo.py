@@ -13,7 +13,7 @@ def create_user(db:Session,user):
         email=user.email,
         password=user.password,
         phone_number=user.phone_number,
-        role="Student"
+        role=user.role
     )
     db.add(db_user)
     db.commit()
